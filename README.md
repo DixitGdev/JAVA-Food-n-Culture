@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge)
 ![Build](https://img.shields.io/badge/Build-Passing-green)
 
-# **Group 14 - Food n’ Culture**
+# **Group 14 - Food n’ Culture** [(YouTube Video)](https://youtu.be/0hR2bYD5bnQ)
 
 Home is where the family is, but not everyone is lucky enough to have that bond last long.
 Food and culture are two important aspects that are linked to one’s ideated identity and can
@@ -36,14 +36,25 @@ initiatives. It is important to value the community which supports you and hence
 page is supported to respect the values of inclusion and sustenance for the entire
 community and hosts.
 
+# _**Technologies**_
+
+* ### [JAVA](https://www.java.com/en/) 
+* ### [Swagger](https://swagger.io/)       
+* ### [Android](https://developer.android.com/studio)     
+* ### [MySQL](https://www.mysql.com/)
+
+
 # _**Contributors**_
 
 | Members           | Banner ID 
 | ---------------------- |:---------------------:
 | Dixit Ghodadara   | B00913652
-| Rutvik Joshi       | B00917152      
-| Sumit Kumar      | B00917152 
-| Raj Soni     | B00917152  
+| Rutvik Joshi       | B00914544    
+| Sumit Kumar      | B00917876
+| Raj Soni     | B00916787
+
+
+
 
 # Architecture Diagram
 
