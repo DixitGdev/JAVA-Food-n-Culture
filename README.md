@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge)
 ![Build](https://img.shields.io/badge/Build-Passing-green)
 
-# **Group 14 - Food n’ Culture** [(YouTube Video)](https://youtu.be/0hR2bYD5bnQ)
+# **Food n’ Culture** [(YouTube Video)](https://youtu.be/0hR2bYD5bnQ)
 
 Home is where the family is, but not everyone is lucky enough to have that bond last long.
 Food and culture are two important aspects that are linked to one’s ideated identity and can
